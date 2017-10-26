@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-#  export ZSH=/home/khu/.oh-my-zsh
+  export ZSH=/home/sauber92/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 ZSH_THEME="daveverwer"

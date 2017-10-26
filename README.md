@@ -1,4 +1,4 @@
-# sauber02-zshrc
+# sauber92-zshrc
 
 > 'zshrc' used by 'sauber92(@Junyoung Jung)  
 
