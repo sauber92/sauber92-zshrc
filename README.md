@@ -30,7 +30,7 @@ $ sudo yum -y install zsh
 ### Change $SHELL  
 
 ```
-$ wich zsh  
+$ which zsh  
 /usr/bin/zsh   
 
 $ chsh -s /usr/bin/zsh  
