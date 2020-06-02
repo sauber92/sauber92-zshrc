@@ -46,17 +46,3 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export EDITOR='vim'
-
-###########
-# TZ-m
-###########
-
-# cmake path
-export PATH=/usr/local/bin:$PATH
-# GNU-ARM path
-export PATH=/home/sauber92/TEE/dev-env/gnu-arm/bin:$PATH
-# DS-5
-export PATH=/usr/local/DS-5_v5.27.1/sw/ARMCompiler6.7.1/bin:$PATH
-export ARM_TOOLVARIANT="ult"
-export ARM_PRODUCT_PATH="/usr/local/DS-5_v5.27.1/sw/mappings"
-export ARMLMD_LICENSE_FILE="/usr/local/DS-5_v5.27.1/license.txt"
